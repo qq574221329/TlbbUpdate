@@ -1,1 +1,7 @@
-# TlbbUpdate
+文件	解压	MD5
+Begin20180427.7z.001	Data	
+Begin20180427.7z.002		
+Begin20180427.7z.003		
+Begin20180427.7z.004		
+Begin20180427.7z.005		
+Bin.7z	Bin	
